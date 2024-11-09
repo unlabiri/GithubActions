@@ -1,4 +1,4 @@
-name: 'Run App AdaAljabiri'
+name: 'Run App AdaSAljabiri'
 
 on: [push, pull_request]
 
